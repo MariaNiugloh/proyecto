@@ -1,6 +1,7 @@
 # Proyecto
 
-Este es un proyecto para aprender desarrollo web, enfocado en una página web para almacenar notas de los conocimientos adquiridos.
+Este es un proyecto creado con el propósito de aprender desarrollo web.
+Enfocado en una página web donde el usuario puede almacenar y gestionar apuntes de los conocimientos adquiridos durante su aprendizaje.
 
 ### Tecnologías usadas
 
@@ -13,11 +14,27 @@ Este es un proyecto para aprender desarrollo web, enfocado en una página web pa
 
 ### Instrucciones de visualización
 
-- **1.** Para comenzar debes clonar el repositorio.
+- **1.** Para comenzar debes clonar el repositorio con el comando:
+```
+git clone URL-repositorio
+``` 
 
-- **2.** Instalas la extensión *"Live Server"*.
+- **2.** Entras a la carpeta con el comando: 
+```
+cd proyecto
+``` 
 
-- **3.** Por último visualiza! =)
+- **3.** Abres el proyecto en Visual Studio Code con el comando: 
+```
+code .
+``` 
 
+- **4.** Instalas la extensión *"Live Server"*.
+
+- **5.** Por último visualiza! =)
+
+### Autor
+
+Mashup
 
 
